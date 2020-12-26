@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 46.883 s <<< FAILURE! - in TestSuite
+validateLoginUser(Academy.validateLogin)  Time elapsed: 27.245 s  <<< FAILURE!
+java.lang.AssertionError: expected [Login Page] but found [NNNOW.com Discover and Shop Latest Fashion and Clothes Online.]
+	at Academy.validateLogin.validateLoginUser(validateLogin.java:178)
+

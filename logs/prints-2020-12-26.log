@@ -1,0 +1,6 @@
+11:50:05.012 [main] INFO  resources.base - User clicked on ADD BAG
+11:50:10.708 [main] INFO  resources.base - User successfully clicked on VIEW SHOPPING BAG
+11:50:11.488 [main] INFO  resources.base - User Successfully clicked on APPLY PROMO CODE
+11:50:13.176 [main] INFO  resources.base - User successfully typed PROMO CODE ABCD
+11:50:13.465 [main] INFO  resources.base - User successfully clicked on APPLY PROMO CODE
+11:50:14.118 [main] INFO  resources.base - User successfully clicked on closed PROMO CODE Window
